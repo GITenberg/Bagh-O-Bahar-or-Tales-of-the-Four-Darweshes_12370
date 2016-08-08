@@ -1,0 +1,45 @@
+_repo: Bagh-O-Bahar-or-Tales-of-the-Four-Darweshes_12370
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Mir Amman Dihlavi, active 1801-1806
+    aliases:
+    - Amman, Mir
+    - Dihlavi, Mir Amman
+    - Amman Dihlavi, Mir
+    - Meer Amman
+    gutenberg_agent_id: '34841'
+    url: http://www.gutenberg.org/2009/agents/34841
+  translator:
+    agent_name: Forbes, Duncan
+    birthdate: 1798
+    deathdate: 1868
+    gutenberg_agent_id: '31675'
+    url: http://www.gutenberg.org/2009/agents/31675
+creator:
+  author:
+    agent_name: Amir Khusraw Dihlavi
+    aliases:
+    - Dekhlevi, Amir Khosrov
+    - Dekhlavi, Amir Khusrav
+    - Khosrau, Amir
+    - Khusru, Ameer
+    deathdate: 1325
+    gutenberg_agent_id: '3242'
+    url: http://www.gutenberg.org/2009/agents/3242
+description: Translation of Mir Amman Dihlavi's Urdu adaptation of the Persian tale,
+  Qissah-i chahar darvish, attributed to Amir Khusraw Dihlavi.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PK'
+- !lcsh 'Hindus -- Folklore'
+- GITenberg
+title: Bagh O Bahar, or Tales of the Four Darweshes
+url: http://www.gutenberg.org/ebooks/12370
