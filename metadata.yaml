@@ -1,5 +1,5 @@
 _repo: Bagh-O-Bahar-or-Tales-of-the-Four-Darweshes_12370
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   adapter:
     agent_name: Mir Amman Dihlavi, active 1801-1806
@@ -16,6 +16,9 @@ contributor:
     deathdate: 1868
     gutenberg_agent_id: '31675'
     url: http://www.gutenberg.org/2009/agents/31675
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Amir Khusraw Dihlavi
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3242
 description: Translation of Mir Amman Dihlavi's Urdu adaptation of the Persian tale,
   Qissah-i chahar darvish, attributed to Amir Khusraw Dihlavi.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12370#Bagh-O-Bahar-or-Tales-of-the-Four-Darweshes
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
